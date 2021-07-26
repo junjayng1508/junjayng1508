@@ -4,9 +4,9 @@
 ### Currently working on a Discord.py Moderation bot!
 
 #### **Social Links:**
-> ##### **[Instagram](https://instagr.am/junjayng1508)** \
-> ##### **[Discord](https://discord.com/users/714731543309844561)** \
-> ##### **[Contact](mailto:junjayng1508@gmail.com)** \
+> ##### **[Instagram](https://instagr.am/junjayng1508)**
+> ##### **[Discord](https://discord.com/users/714731543309844561)** 
+> ##### **[Contact](mailto:junjayng1508@gmail.com)** 
 > ##### **[Github](https://github.com/junjayng1508)**
 
 <!---
