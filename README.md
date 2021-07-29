@@ -7,7 +7,7 @@
 > **[Instagram](https://instagr.am/junjayng1508)** \
 > **[Discord](https://discord.com/users/714731543309844561)** \
 > **[Contact](mailto:junjayng1508@gmail.com)** \
-> **[Github](https://github.com/junjayng1508)**
+> **[Github](https://github.com/junjayng1508)** \
 > **[Website](https://junjayng1508.github.io)**
 
 <!---
