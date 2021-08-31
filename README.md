@@ -1,7 +1,7 @@
 # 👋 Hello, I’m @junjayng1508 and I'm interested in HTML, CSS and Python!
 ## I’m currently learning more about them.
 
-### Currently working on a Discord.py Moderation bot!
+### Currently working on a Discord.py Moderation and Utility bot!
 
 #### **Social Links:**
 > **[Instagram](https://instagr.am/junjayng1508)** \
